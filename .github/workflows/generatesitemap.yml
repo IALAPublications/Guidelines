@@ -1,0 +1,37 @@
+name: Generate xml sitemap WROKING
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  sitemap_job:
+    runs-on: ubuntu-latest
+    name: Generate a sitemap
+
+    steps:
+    - name: Checkout the repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 
+
+    - name: Generate the sitemap
+      id: sitemap
+      uses: cicirello/generate-sitemap@v1
+      with:
+        base-url-path: https://raw.githubusercontent.com/IALAPublications/Guidelines/main/
+
+    - name: Output stats
+      run: |
+        echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
+        echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
+        echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+        mv sitemap.xml sitemap.xml.tmp
+        git config user.email omar.eriksson@iala-aism.org
+        git config user.name IALAPublications
+        git fetch
+        git checkout sitemap
+        mv sitemap.xml.tmp sitemap.xml
+        git add sitemap.xml
+        git commit -m "New sitemaps"
+        git push
