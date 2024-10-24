@@ -165,6 +165,10 @@
 <lastmod>2023-03-04T16:38:26+01:00</lastmod>
 </url>
 <url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1066 Ed1.3 The Design of Floating Aid to Navigation Moorings May 2009_Review_clean.pdf</loc>
+<lastmod>2024-10-24T08:54:13+02:00</lastmod>
+</url>
+<url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1067-0 Ed3.1 Selection of Power Systems for AtoN and Associated Equipment December 2017.pdf</loc>
 <lastmod>2023-03-04T16:38:26+01:00</lastmod>
 </url>
@@ -285,7 +289,7 @@
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
 <url>
-<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1101 Ed1.1 Auditing & Assessing a VTS January 2022.pdf</loc>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1101 Ed1.1 Auditing &amp; Assessing a VTS January 2022.pdf</loc>
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
 <url>
@@ -401,7 +405,7 @@
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
 <url>
-<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1118 Ed 1.1 Marine Casualty - Incident Reporting & Recording Including Near-miss Situations as it Relates to a VTS January 2022.pdf</loc>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1118 Ed 1.1 Marine Casualty - Incident Reporting &amp; Recording Including Near-miss Situations as it Relates to a VTS January 2022.pdf</loc>
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
 <url>
@@ -443,6 +447,10 @@
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1128 Ed1.4 Specification of e-Navigation Technical Service December 2021.pdf</loc>
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1128 Ed1.5 Specification of e-Navigation Technical Services June 2024.pdf</loc>
+<lastmod>2024-10-24T08:54:13+02:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1129 Ed2.1 Retransmission of SBAS Corrections June 2022.pdf</loc>
@@ -495,6 +503,10 @@
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1141 Ed2.2 Operational Procedures for Delivering VTS January 2022.pdf</loc>
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1141 Ed3.0 Operational Procedures for Delivering VTS June 2024.pdf</loc>
+<lastmod>2024-10-24T08:54:13+02:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1142 Ed1.1 The Provision of a Local Port Service other than a VTS January 2022.pdf</loc>
@@ -637,11 +649,31 @@
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
 <url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1177 Ed2.0 Portrayal of VTS information June 2024.pdf</loc>
+<lastmod>2024-10-24T08:54:13+02:00</lastmod>
+</url>
+<url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1178 Ed1.0 An introduction to the Artificial Intelligence (AI) from an IALA perspective.pdf</loc>
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1179 Ed1.0 An introduction to the Internet of Things from an IALA perspective.pdf</loc>
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1180 Ed1.0 Resilient PNT.pdf</loc>
+<lastmod>2024-10-24T08:54:13+02:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1181 Ed1.0 VDES VDL Integrity monitoring.pdf</loc>
+<lastmod>2024-10-24T08:54:13+02:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1182 Ed1.0 Cyber security specifics from an IALA perspective June 2024.pdf</loc>
+<lastmod>2024-10-24T08:54:13+02:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1183 Ed1.0 Provison of MCP identities June 2024.pdf</loc>
+<lastmod>2024-10-24T08:54:13+02:00</lastmod>
 </url>
 </urlset>
