@@ -20,7 +20,7 @@ jobs:
       uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://raw.githubusercontent.com/IALAPublications/Guidelines/main/
-
+        additional-extensions: doc docx xls xlsx
     - name: Output stats
       run: |
         echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
