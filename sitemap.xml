@@ -53,6 +53,10 @@
 <lastmod>2023-03-04T16:38:26+01:00</lastmod>
 </url>
 <url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1027 Ed2.0 Simulation in VTS training June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
+</url>
+<url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1033 Ed1.1 The Provision of Aids to Navigation for Different Classes of Vessels, including High-Speed Craft December 2003.pdf</loc>
 <lastmod>2023-03-04T16:38:26+01:00</lastmod>
 </url>
@@ -119,6 +123,10 @@
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1052 Ed3.1 Quality Management Systems for Marine Aids to Navigation Service Delivery December 2013.pdf</loc>
 <lastmod>2023-03-04T16:38:26+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1052 Ed3.2 Quality Management Systems for Marine Aids to Navigation Service Delivery June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1053 Ed1.1 Template for the submission of a DGNSS Service for Recognition as a Component of the IMO WWRNS December 2006.pdf</loc>
@@ -261,6 +269,10 @@
 <lastmod>2023-03-04T16:38:26+01:00</lastmod>
 </url>
 <url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1093 Ed1.2 Management of transfer of Surplus Lighthouse Property June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
+</url>
+<url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1094 Ed2.1 Daymarks for Aids to Navigation June 2016.pdf</loc>
 <lastmod>2023-03-04T16:38:26+01:00</lastmod>
 </url>
@@ -309,6 +321,10 @@
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
 <url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1106 Ed3.0 Producing an IALA S-200 Series Product Specification.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
+</url>
+<url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1106-1 Ed1.1 IALA Product Specification Template September 2021.pdf</loc>
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
@@ -341,8 +357,16 @@
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
 </url>
 <url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1111 Ed2.1 Establishing functional performance requirements June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
+</url>
+<url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1111-1 Ed1.0 Producing Requirements for Core VTS Systems and Equipment.pdf</loc>
 <lastmod>2023-03-04T16:40:36+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1111-1 Ed1.1 Producing requirements for core VTS systems June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1111-2 Ed1.0 Producing Requirements for Voice Communications.pdf</loc>
@@ -471,6 +495,10 @@
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1128 Ed1.6 Specification of e-Navigation Technical Services December 2024.pdf</loc>
 <lastmod>2025-01-09T12:02:49+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1128 Ed1.7 Specification of e-Navigation Technical Services June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1129 Ed2.1 Retransmission of SBAS Corrections June 2022.pdf</loc>
@@ -703,5 +731,25 @@
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1188 Ed1.0 Quality management practices for VTS providers December 2024.pdf</loc>
 <lastmod>2025-01-09T16:01:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1189 Ed1.0 Measurement of Marine Lights Performance June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1190 Ed1.0 Harmonised Internet of Things (IoT) Protocol For Visual AtoN June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1191 Ed1.0 Maritime Service Registry (MSR) Technical Specification June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1192 Ed1.0 VDES authentication June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Guidelines/main/G1193 Ed1.0 VDES signal measurement June 2025.pdf</loc>
+<lastmod>2025-08-21T14:44:51-04:00</lastmod>
 </url>
 </urlset>
